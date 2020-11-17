@@ -201,6 +201,10 @@ $mw:1900px;
             background-repeat: no-repeat;
         }
 
+        .radio_fake:hover {
+            cursor: pointer;
+        }
+
         .radio_real:checked+.radio_fake {
             background-image: url(../img/Ellipse_active.png);
         }
@@ -425,6 +429,10 @@ $mw:1900px;
             line-height: 32px;
             color: #8C8C8C;
             text-align: center;
+        }
+
+        .filter_fake:hover {
+            cursor: pointer;
         }
 
         .filter_fake_1 {
