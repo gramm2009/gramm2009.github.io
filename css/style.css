@@ -561,9 +561,7 @@
 }
 
 .main .section_3 .card_more:hover {
-  -webkit-transform: scale(1.05);
-          transform: scale(1.05);
-  border: 1px solid #5d18dd;
+  background: #988574b0;
 }
 
 .main .video_box .video {
