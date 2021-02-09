@@ -1,3 +1,2 @@
 # gramm2009.github.io
-Мой первый хостинг
-Мой первый проэкт
+My first project html/css
