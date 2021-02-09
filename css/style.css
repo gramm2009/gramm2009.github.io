@@ -565,7 +565,9 @@
 }
 
 .main .video_box .video {
-  max-width: 1900px;
+  display: block;
+            max-width: 1900px;
+            margin: 0 auto;
 }
 
 .main .section_4 {
